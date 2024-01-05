@@ -1,7 +1,7 @@
 
 export default {
     title: 'BettterMemory',
-    base: '/Website/',
+    base: '/',
     themeConfig: {
         logo: '../face.png',
 
