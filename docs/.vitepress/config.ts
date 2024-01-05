@@ -1,3 +1,8 @@
+const config: UserConfig = {
+  base: '/Website/', // 设置新的基本路径
+  // 其他配置...
+}
+
 export default {
     title: 'BettterMemory',
     themeConfig: {
