@@ -1,5 +1,5 @@
 const config: UserConfig = {
-  base: '/', // 设置新的基本路径
+  base: '/Website/', // 设置新的基本路径
   // 其他配置...
 }
 
