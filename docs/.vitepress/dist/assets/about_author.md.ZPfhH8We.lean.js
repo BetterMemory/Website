@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,U as r}from"./chunks/framework.2yH8-8ID.js";const u=JSON.parse('{"title":"关于作者","description":"","frontmatter":{},"headers":[],"relativePath":"about/author.md","filePath":"about/author.md"}'),o={name:"about/author.md"},n=r("",7),_=[n];function c(l,s,p,h,i,d){return a(),t("div",null,_)}const b=e(o,[["render",c]]);export{u as __pageData,b as default};
