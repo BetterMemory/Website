@@ -3,7 +3,7 @@ export default {
     title: 'BettterMemory',
     base: '/',
     themeConfig: {
-        logo: '../face.png',
+        logo: '/face.svg',
 
         nav: [
             {text: '文档', link: 'application/usage/docs.md'},

@@ -16,7 +16,7 @@ hero:
       text: 文档
       link: application/usage/docs.md
   image:
-    src: /face.png
+    src: /face.svg
     alt: BetterMemoryLogo
 
 features:
