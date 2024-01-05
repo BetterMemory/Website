@@ -35,7 +35,7 @@ features:
   - icon: 🛡️
     title: 安全
     details: 所有程序都是开源的，您可以放心使用。
-    link:
+    link: https://lilkon.cn
     linkText: 查看用户评价
 ---
 
